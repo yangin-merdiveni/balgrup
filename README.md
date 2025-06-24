@@ -28,9 +28,9 @@
   </tr>
   <tr>
     <td><a href="https://WWW.balgrup.com" target="_blank"><img src="https://img.shields.io/badge/Fiyata_Al-Hemen_Tıkla-FFD700?style=for-the-badge&logoColor=black" /></a></td>
-    <td><a href="https://www.balrup.com" target="_blank"><img src="https://img.shields.io/badge/Fiyata_Al-Hemen_Tıkla-006400?style=for-the-badge&logoColor=white" /></a></td>
-    <td><a href="https://www.balrup.com" target="_blank"><img src="https://img.shields.io/badge/Fiyata_Al-Hemen_Tıkla-800080?style=for-the-badge&logoColor=white" /></a></td>
-    <td><a href="https://www.balrup.com" target="_blank"><img src="https://img.shields.io/badge/Fiyata_All-Hemen_Tıkla-00CED1?style=for-the-badge&logoColor=black" /></a></td>
+    <td><a href="https://www.balgrup.com" target="_blank"><img src="https://img.shields.io/badge/Fiyata_Al-Hemen_Tıkla-006400?style=for-the-badge&logoColor=white" /></a></td>
+    <td><a href="https://www.balgrup.com" target="_blank"><img src="https://img.shields.io/badge/Fiyata_Al-Hemen_Tıkla-800080?style=for-the-badge&logoColor=white" /></a></td>
+    <td><a href="https://www.balgrup.com" target="_blank"><img src="https://img.shields.io/badge/Fiyata_All-Hemen_Tıkla-00CED1?style=for-the-badge&logoColor=black" /></a></td>
   </tr>
 </table>
 
